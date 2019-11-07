@@ -32,3 +32,4 @@
 # Project jupyter. https://jupyter.org/. 
 # Michael Waskom. seaborn. https://seaborn.pydata.org/.
 # Michael Waskom. Tips data set. https://github.com/mwaskom/seaborn-data/blob/master/tips.csv.
+# Git (2019) Git Book Accessed online at: https://git-scm.com/book/en/v2
