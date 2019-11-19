@@ -29,7 +29,7 @@
 # Analyse tips set uniquely.
 # Complete the assignment to standard.
 
-
+# Visited Michael Waskoms' github account to view repositories.
 
 # Key Words
 # Jupyter - "a loose acronym meaning Julia, Python, and R" (Datacamp, 2019) - The base languages jupyter was created to include but it now includes various other languages, including Python.
@@ -45,11 +45,14 @@
 # w3Schools.com Tutorials. Accessed online at: https://www.w3schools.com
 # Python by Programiz Tutorials. Accessed online at: https://www.programiz.com/
 # Pandas: Python Data Analysis Library. Accessed online at: https://pandas.pydata.org.
-# NumPy. Accessed online at: http://www.numpy.org
-# Stack Overflow - Various queries for comparison and improving code output. Accessed online at: https://stackoverflow.com
-# Project jupyter. https://jupyter.org/. 
-# Michael Waskom. seaborn. https://seaborn.pydata.org/.
-# Michael Waskom. Tips data set. https://github.com/mwaskom/seaborn-data/blob/master/tips.csv.
-# Git (2019) Git Book Accessed online at: https://git-scm.com/book/en/v2
-# SciPy.org (2019) Quickstart Tutorial. Accessed online at: https://docs.scipy.org/doc/numpy/user/quickstart.html
+# NumPy.org. Accessed online at: http://www.numpy.org.
 # Seaborn (2019) Official Seaborn Tutorial. Accessed online at: https://seaborn.pydata.org/tutorial.html
+# Stack Overflow - Various queries for comparison and improving code output. Accessed online at: https://stackoverflow.com.
+# Git (2019) Git Book. Accessed online at: https://git-scm.com/book/en/v2
+# SciPy.org (2019) Quickstart Tutorial. Accessed online at: https://docs.scipy.org/doc/numpy/user/quickstart.html
+# Project jupyter. https://jupyter.org/. 
+# Waskom, M. (2019) seaborn. Accessed online at: https://seaborn.pydata.org/.
+# Waskom, M. (2019) Tips data set. Accessed online at: https://github.com/mwaskom/seaborn-data/blob/master/tips.csv.
+# Waskom, M. (2019) Github Account. Accessed online at: https://github.com/mwaskom?tab=repositories.
+# Seaborn (2019) Visualizing statistical relationships. Accessed online at: https://seaborn.pydata.org/tutorial/relational.html
+# Doshi, S. (2019) Analyze the data through data visualization using Seaborn. Towards Data Science. Accessed online at: https://towardsdatascience.com/analyze-the-data-through-data-visualization-using-seaborn-255e1cd3948e
