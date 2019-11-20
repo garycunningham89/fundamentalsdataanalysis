@@ -29,12 +29,22 @@
 # Analyse tips set uniquely.
 # Complete the assignment to standard.
 
+# Structure of the Assignment
+
+# Introduction of Tips Data-set, Types of Data Visualization to be used on the key tasks: Descriptive Statistics, Regression and Analysis.
+# Descriptive Statistics Section of Tips Data-set
+# Regression Section on Tip Data-set
+# Analysis of Tip Data-set
+# Conclusion
+# Reference List 
+
 # Visited Michael Waskoms' github account to view repositories.
 
 # Key Words
 # Jupyter - "a loose acronym meaning Julia, Python, and R" (Datacamp, 2019) - The base languages jupyter was created to include but it now includes various other languages, including Python.
 # Notebook - jupyter notebook versions allow the inclusion of code, graphs, figures, etc. in a single document repository and Datacamp (2019) state these document holdings "are the ideal place to bring together an analysis description, and its results, as well as, they can be executed perform the data analysis in real time".
 # The Jupyter Notebook App - allows running the program on a web browser with the kernel and dashboard the primary components. The kernel deals with the code inputted by the user. The dashboard shows the high level of this access and allows creation or editing of notebooks and managing of kernels on the system you are using.
+# Descriptive statistics - "are brief descriptive coefficients that summarize a given data set, which can be either a representation of the entire or a sample of a population" Investopedia (2019).
 
 
 
@@ -50,9 +60,13 @@
 # Stack Overflow - Various queries for comparison and improving code output. Accessed online at: https://stackoverflow.com.
 # Git (2019) Git Book. Accessed online at: https://git-scm.com/book/en/v2
 # SciPy.org (2019) Quickstart Tutorial. Accessed online at: https://docs.scipy.org/doc/numpy/user/quickstart.html
+# matplotlib (2019) Pyplot Tutorial. Accessed online at: https://matplotlib.org/3.1.1/tutorials/introductory/pyplot.html
 # Project jupyter. https://jupyter.org/. 
 # Waskom, M. (2019) seaborn. Accessed online at: https://seaborn.pydata.org/.
 # Waskom, M. (2019) Tips data set. Accessed online at: https://github.com/mwaskom/seaborn-data/blob/master/tips.csv.
 # Waskom, M. (2019) Github Account. Accessed online at: https://github.com/mwaskom?tab=repositories.
 # Seaborn (2019) Visualizing statistical relationships. Accessed online at: https://seaborn.pydata.org/tutorial/relational.html
+# Marsland, S. (2015) Machine Learning: An Algorithmic Perspective. Taylor and Francis Group.
+# Investopedia (2019) Descriptive Statistics. Accessed online at: https://www.investopedia.com/terms/d/descriptive_statistics.asp
 # Doshi, S. (2019) Analyze the data through data visualization using Seaborn. Towards Data Science. Accessed online at: https://towardsdatascience.com/analyze-the-data-through-data-visualization-using-seaborn-255e1cd3948e
+# Hackernoon (2018) What Is Data Visualization? Definition, History, and Examples. Accessed online at: https://hackernoon.com/what-is-data-visualization-definition-history-and-examples-e51ded6e444a
