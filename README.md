@@ -46,7 +46,23 @@
 # The Jupyter Notebook App - allows running the program on a web browser with the kernel and dashboard the primary components. The kernel deals with the code inputted by the user. The dashboard shows the high level of this access and allows creation or editing of notebooks and managing of kernels on the system you are using.
 # Descriptive statistics - "are brief descriptive coefficients that summarize a given data set, which can be either a representation of the entire or a sample of a population" Investopedia (2019).
 
-
+# Key parameters within seaborn package from Seaborn Tutorial;
+# x, y : names of variables in data or vector data, optional, must be numeric. Either data or columns in data.
+# hue : name of variables in data or vector data, optional
+# size : name of variables in data or vector data, optional either categorical or numeric.
+# style : name of variables in data or vector data, optional, a numeric dtype but will always be treated as categorical.
+# data : DataFrame, each column is a variable and each row is an observation.
+# palette : palette name, list, or dict, optional, Colors to use for the different levels of the hue variable
+# hue_order : list, optional, order of the hue variable levels, otherwise they are determined from the data. Not needed when numeric
+# hue_norm : tuple or Normalize object, optional, applied to the hue variable when it is numeric. Not relevant if it is categorical.
+# sizes : list, dict, or tuple, optional, how sizes are chosen when size is used.
+# size_order : list, optional. Not relevant when the size variable is numeric.
+# size_norm : tuple or Normalize object, optional. When the size variable is numeric.
+# markers : boolean, list, or dictionary, optional. Setting to True will use default markers. Setting to False will draw marker-less lines.
+# style_order : list, optional. Not relevant when the style variable is numeric.
+# legend : “brief”, “full”, or False, optional. How to draw the legend. If “brief”, numeric hue and size variables will be represented with a sample of evenly spaced values. If “full”, every group will get an entry in the legend. If False, no legend data is added and no legend is drawn.
+# ax : matplotlib Axes, optional. Axes object to draw the plot onto, otherwise uses the current Axes.
+# kwargs : key, value mappings. Other keyword arguments are passed down to plt.scatter at draw time.
 
 # Reference List
 # Class Content, Background Reading and Python Learning Tutorials were preliminary references supplemented by the following list of references;
