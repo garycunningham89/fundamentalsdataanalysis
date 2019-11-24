@@ -45,6 +45,9 @@
 # Notebook - jupyter notebook versions allow the inclusion of code, graphs, figures, etc. in a single document repository and Datacamp (2019) state these document holdings "are the ideal place to bring together an analysis description, and its results, as well as, they can be executed perform the data analysis in real time".
 # The Jupyter Notebook App - allows running the program on a web browser with the kernel and dashboard the primary components. The kernel deals with the code inputted by the user. The dashboard shows the high level of this access and allows creation or editing of notebooks and managing of kernels on the system you are using.
 # Descriptive statistics - "are brief descriptive coefficients that summarize a given data set, which can be either a representation of the entire or a sample of a population" Investopedia (2019).
+# Mean - average of all numbers.
+# Median - is the middle value or average of two middle values of a sorted set of numbers.
+# Mode -  is the most common data entry found in a set of numbers.
 # ROWS, VARIABLES - data inputs. In this data set it is the measurements compiled by Waskom.
 # ATTRIBUTES, CLASSES - the attributes are the specifications.
 # DATASET - in this case it is the Tips dataset which is imported in the script from the Maskons preloaded Seaborn tips.csv file.
@@ -76,6 +79,16 @@
 # ax : matplotlib Axes, optional. Axes object to draw the plot onto, otherwise uses the current Axes.
 # kwargs : key, value mappings. Other keyword arguments are passed down to plt.scatter at draw time.
 
+# Descriptors of datasets used: data = dataset in question:
+# tips.data() -shows entire data set.
+# tips.head() - shows first 5 rows of the data set.
+# tips.tail() - shows last 5 rows of the dataset.
+# tips.describe() -gives a statistical summary of the dataset.
+# tips.shape() - tells amounts of rows and columns in format: (rows, columns)
+# tips.columns() - gives output of the columns headers and the 'dtype'.b
+# tips["class"].value_counts() - separates the column class and gives output of each as well as the dtype as int64.
+
+
 # Reference List
 # Class Content, Background Reading and Python Learning Tutorials were preliminary references supplemented by the following list of references;
 # Python Software Foundation. Accessed online at: https://www.python.org/
@@ -105,3 +118,4 @@
 # Han, J. (2006) Data Mining: Concepts and Techniques. Accessed online at: http://rizalespe.lecture.ub.ac.id/files/2015/10/DM-04-1-Klasifikasi.pdf
 # Python Charts (2019) A Short Intro to Seaborn. Accessed online at: https://www.pythoncharts.com/2019/04/15/intro-to-seaborn/
 # Willems, K (2017) Python Seaborn Tutorial For Beginners. Accessed online at: https://www.datacamp.com/community/tutorials/seaborn-python-tutorial.
+# Teo, B. G. (2019) A Quick Guide on Descriptive Statistics using Pandas and Seaborn. Accessed online at: https://towardsdatascience.com/a-quick-guide-on-descriptive-statistics-using-pandas-and-seaborn-2aadc7395f32
