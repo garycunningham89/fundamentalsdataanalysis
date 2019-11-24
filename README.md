@@ -58,9 +58,6 @@
 # HISTOGRAM: a bar chart type graph showing distribution of inputs.
 # SCATTER, DISTPLOT, BOXPLOT, LINEPLOT, VIOLIN, PAIRPLOT: examples of graphs showing the attributes for analysis.
 
-
-
-
 # Key parameters within seaborn package from Seaborn Tutorial;
 # x, y : names of variables in data or vector data, optional, must be numeric. Either data or columns in data.
 # hue : name of variables in data or vector data, optional
@@ -96,6 +93,7 @@
 # Waskom, M. (2019) seaborn. Accessed online at: https://seaborn.pydata.org/.
 # Waskom, M. (2019) Tips data set. Accessed online at: https://github.com/mwaskom/seaborn-data/blob/master/tips.csv.
 # Waskom, M. (2019) Github Account. Accessed online at: https://github.com/mwaskom?tab=repositories.
+# Waskom, M. (2019) Bio NYU. Accessed online at: https://www.cns.nyu.edu/~mwaskom/index.html
 # Seaborn (2019) Visualizing statistical relationships. Accessed online at: https://seaborn.pydata.org/tutorial/relational.html
 # Marsland, S. (2015) Machine Learning: An Algorithmic Perspective. Taylor and Francis Group.
 # Investopedia (2019) Descriptive Statistics. Accessed online at: https://www.investopedia.com/terms/d/descriptive_statistics.asp
@@ -104,3 +102,6 @@
 # Olkin, I. and Sampson, A. R. (2001) Multivariate Analysis: Overview, in International Encyclopedia of the Social & Behavioral Sciences. Accessed online at: https://www.sciencedirect.com/topics/medicine-and-dentistry/multivariate-analysis.
 # Taylor, J. (2011) Stats 202: Data Mining. Stanford Univeristy. Accessed online at: http://statweb.stanford.edu/~jtaylo/courses/stats202/visualization.html.
 # Michalski, R. S., Carbonell, J. G. and Mitchel, T. M. (2014) Machine Learning: An Artificial Intelligence Approach, Volume 1.
+# Han, J. (2006) Data Mining: Concepts and Techniques. Accessed online at: http://rizalespe.lecture.ub.ac.id/files/2015/10/DM-04-1-Klasifikasi.pdf
+# Python Charts (2019) A Short Intro to Seaborn. Accessed online at: https://www.pythoncharts.com/2019/04/15/intro-to-seaborn/
+# Willems, K (2017) Python Seaborn Tutorial For Beginners. Accessed online at: https://www.datacamp.com/community/tutorials/seaborn-python-tutorial.
