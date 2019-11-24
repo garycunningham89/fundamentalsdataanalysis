@@ -45,6 +45,21 @@
 # Notebook - jupyter notebook versions allow the inclusion of code, graphs, figures, etc. in a single document repository and Datacamp (2019) state these document holdings "are the ideal place to bring together an analysis description, and its results, as well as, they can be executed perform the data analysis in real time".
 # The Jupyter Notebook App - allows running the program on a web browser with the kernel and dashboard the primary components. The kernel deals with the code inputted by the user. The dashboard shows the high level of this access and allows creation or editing of notebooks and managing of kernels on the system you are using.
 # Descriptive statistics - "are brief descriptive coefficients that summarize a given data set, which can be either a representation of the entire or a sample of a population" Investopedia (2019).
+# ROWS, VARIABLES - data inputs. In this data set it is the measurements compiled by Waskom.
+# ATTRIBUTES, CLASSES - the attributes are the specifications.
+# DATASET - in this case it is the Tips dataset which is imported in the script from the Maskons preloaded Seaborn tips.csv file.
+# MACHINE LEARNING - allows "computers the ability to learn without being explicitly programmed" (Athur Samuel). Allows processing of BIG DATA.
+# DATA ANALYSIS - is the inspection and modelling of data to discover information and conclusions which may aid the process of decision making.
+# DATA MINING - is the examination of existing databases in order to produce new information.
+# MULTIVARIATE ANALYSIS: two or more forms of variables for analysis.
+# UNIVARIATE ANALYSIS: one variable for analysis.
+# MEAN: the average of a set of numbers.
+# STANDARD DEVIATION: the variance from the mean. It can be a low or high variance depending on the distribution of differences from the mean.
+# HISTOGRAM: a bar chart type graph showing distribution of inputs.
+# SCATTER, DISTPLOT, BOXPLOT, LINEPLOT, VIOLIN, PAIRPLOT: examples of graphs showing the attributes for analysis.
+
+
+
 
 # Key parameters within seaborn package from Seaborn Tutorial;
 # x, y : names of variables in data or vector data, optional, must be numeric. Either data or columns in data.
@@ -84,5 +99,8 @@
 # Seaborn (2019) Visualizing statistical relationships. Accessed online at: https://seaborn.pydata.org/tutorial/relational.html
 # Marsland, S. (2015) Machine Learning: An Algorithmic Perspective. Taylor and Francis Group.
 # Investopedia (2019) Descriptive Statistics. Accessed online at: https://www.investopedia.com/terms/d/descriptive_statistics.asp
-# Doshi, S. (2019) Analyze the data through data visualization using Seaborn. Towards Data Science. Accessed online at: https://towardsdatascience.com/analyze-the-data-through-data-visualization-using-seaborn-255e1cd3948e
-# Hackernoon (2018) What Is Data Visualization? Definition, History, and Examples. Accessed online at: https://hackernoon.com/what-is-data-visualization-definition-history-and-examples-e51ded6e444a
+# Doshi, S. (2019) Analyze the data through data visualization using Seaborn. Towards Data Science. Accessed online at: https://towardsdatascience.com/.analyze-the-data-through-data-visualization-using-seaborn-255e1cd3948e
+# Hackernoon (2018) What Is Data Visualization? Definition, History, and Examples. Accessed online at: https://hackernoon.com/what-is-data-visualization-definition-history-and-examples-e51ded6e444a.
+# Olkin, I. and Sampson, A. R. (2001) Multivariate Analysis: Overview, in International Encyclopedia of the Social & Behavioral Sciences. Accessed online at: https://www.sciencedirect.com/topics/medicine-and-dentistry/multivariate-analysis.
+# Taylor, J. (2011) Stats 202: Data Mining. Stanford Univeristy. Accessed online at: http://statweb.stanford.edu/~jtaylo/courses/stats202/visualization.html.
+# Michalski, R. S., Carbonell, J. G. and Mitchel, T. M. (2014) Machine Learning: An Artificial Intelligence Approach, Volume 1.
