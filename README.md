@@ -41,6 +41,7 @@
 # Visited Michael Waskoms' github account to view repositories.
 
 # Key Words
+# Seaborn is an amazing Python visualization library built on top of matplotlib and seaborn has a high-level interface as compared to the low level of Matplotlib (Singh, 2019).
 # Jupyter - "a loose acronym meaning Julia, Python, and R" (Datacamp, 2019) - The base languages jupyter was created to include but it now includes various other languages, including Python.
 # Notebook - jupyter notebook versions allow the inclusion of code, graphs, figures, etc. in a single document repository and Datacamp (2019) state these document holdings "are the ideal place to bring together an analysis description, and its results, as well as, they can be executed perform the data analysis in real time".
 # The Jupyter Notebook App - allows running the program on a web browser with the kernel and dashboard the primary components. The kernel deals with the code inputted by the user. The dashboard shows the high level of this access and allows creation or editing of notebooks and managing of kernels on the system you are using.
@@ -118,4 +119,5 @@
 # Han, J. (2006) Data Mining: Concepts and Techniques. Accessed online at: http://rizalespe.lecture.ub.ac.id/files/2015/10/DM-04-1-Klasifikasi.pdf
 # Python Charts (2019) A Short Intro to Seaborn. Accessed online at: https://www.pythoncharts.com/2019/04/15/intro-to-seaborn/
 # Willems, K (2017) Python Seaborn Tutorial For Beginners. Accessed online at: https://www.datacamp.com/community/tutorials/seaborn-python-tutorial.
-# Teo, B. G. (2019) A Quick Guide on Descriptive Statistics using Pandas and Seaborn. Accessed online at: https://towardsdatascience.com/a-quick-guide-on-descriptive-statistics-using-pandas-and-seaborn-2aadc7395f32
+# Teo, B. G. (2019) A Quick Guide on Descriptive Statistics using Pandas and Seaborn. Towards Data Science. Accessed online at: https://towardsdatascience.com/a-quick-guide-on-descriptive-statistics-using-pandas-and-seaborn-2aadc7395f32
+# Singh, S. (2019) Become a Data Visualization Whiz with this Comprehensive Guide to Seaborn in Python. Analytics Vidhya. Accessed online at: https://www.analyticsvidhya.com/blog/2019/09/comprehensive-data-visualization-guide-seaborn-python/
