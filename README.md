@@ -61,7 +61,8 @@
 # STANDARD DEVIATION: the variance from the mean. It can be a low or high variance depending on the distribution of differences from the mean.
 # HISTOGRAM: a bar chart type graph showing distribution of inputs.
 # SCATTER, DISTPLOT, BOXPLOT, LINEPLOT, VIOLIN, PAIRPLOT: examples of graphs showing the attributes for analysis.
-
+# Dependent Variable: factor that needs to understood or predicted. 
+# Independent Variables: the factors that may impact on your dependent variable.
 
 # Why Seaborn? Wajiha(2019):
 # * Seaborn, which is a dominant data visualization library
@@ -139,3 +140,4 @@
 # Teo, B. G. (2019) A Quick Guide on Descriptive Statistics using Pandas and Seaborn. Towards Data Science. Accessed online at: https://towardsdatascience.com/a-quick-guide-on-descriptive-statistics-using-pandas-and-seaborn-2aadc7395f32
 # Singh, S. (2019) Become a Data Visualization Whiz with this Comprehensive Guide to Seaborn in Python. Analytics Vidhya. Accessed online at: https://www.analyticsvidhya.com/blog/2019/09/comprehensive-data-visualization-guide-seaborn-python/
 # Wajiha (2019) Python Seaborn Tutorial | Data Visualization Using Seaborn. Accessed online at: https://www.codementor.io/wajihaurooj/python-seaborn-tutorial-data-visualization-using-seaborn-wpj9qydr2.
+# Foley (2018) What is Regression Analysis and Why Should I Use It? Accessed online at: https://www.surveygizmo.com/resources/blog/regression-analysis/.
