@@ -62,6 +62,23 @@
 # HISTOGRAM: a bar chart type graph showing distribution of inputs.
 # SCATTER, DISTPLOT, BOXPLOT, LINEPLOT, VIOLIN, PAIRPLOT: examples of graphs showing the attributes for analysis.
 
+
+# Why Seaborn? Wajiha(2019):
+# * Seaborn, which is a dominant data visualization library
+# * To ease the challenging task of data visualization.
+# Functions:
+# * An API that is based on datasets allowing comparison between multiple variable
+# * Supports multi-plot grids that in turn ease building complex visualizations
+# * Univariate and bivariate visualizations available to compare between subsets of data
+# * Availability of different color palettes to reveal various kinds of patterns
+# * Estimates and plots linear regression automatically.
+
+
+# Seaborn's Mandatory dependencies:
+# NumPy, SciPy, Matplotlib, Pandas.
+
+
+
 # Key parameters within seaborn package from Seaborn Tutorial;
 # x, y : names of variables in data or vector data, optional, must be numeric. Either data or columns in data.
 # hue : name of variables in data or vector data, optional
@@ -121,3 +138,4 @@
 # Willems, K (2017) Python Seaborn Tutorial For Beginners. Accessed online at: https://www.datacamp.com/community/tutorials/seaborn-python-tutorial.
 # Teo, B. G. (2019) A Quick Guide on Descriptive Statistics using Pandas and Seaborn. Towards Data Science. Accessed online at: https://towardsdatascience.com/a-quick-guide-on-descriptive-statistics-using-pandas-and-seaborn-2aadc7395f32
 # Singh, S. (2019) Become a Data Visualization Whiz with this Comprehensive Guide to Seaborn in Python. Analytics Vidhya. Accessed online at: https://www.analyticsvidhya.com/blog/2019/09/comprehensive-data-visualization-guide-seaborn-python/
+# Wajiha (2019) Python Seaborn Tutorial | Data Visualization Using Seaborn. Accessed online at: https://www.codementor.io/wajihaurooj/python-seaborn-tutorial-data-visualization-using-seaborn-wpj9qydr2.
