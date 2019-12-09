@@ -26,8 +26,8 @@
 # Input various codings, explanations and graphs.
 # Research Regression.
 # Compose regression learnings on Tips set and relevant workings.
-# Analyse tips set uniquely.
-# Complete the assignment to standard.
+# Analyse tips set uniquely with the help of seaborn documentation and various sources as below.
+# Complete the assignment to standard as outlined in the Assignment PDF attached.
 
 # Structure of the Assignment
 
@@ -38,7 +38,10 @@
 # Conclusion
 # Reference List 
 
+# Primary Source Points:
 # Visited Michael Waskoms' github account to view repositories.
+# Utilized Seaborn Documentation.
+# Revisited and reworked class content and previous learnings.
 
 # Key Words
 # Seaborn is an amazing Python visualization library built on top of matplotlib and seaborn has a high-level interface as compared to the low level of Matplotlib (Singh, 2019).
@@ -46,6 +49,7 @@
 # Notebook - jupyter notebook versions allow the inclusion of code, graphs, figures, etc. in a single document repository and Datacamp (2019) state these document holdings "are the ideal place to bring together an analysis description, and its results, as well as, they can be executed perform the data analysis in real time".
 # The Jupyter Notebook App - allows running the program on a web browser with the kernel and dashboard the primary components. The kernel deals with the code inputted by the user. The dashboard shows the high level of this access and allows creation or editing of notebooks and managing of kernels on the system you are using.
 # Descriptive statistics - "are brief descriptive coefficients that summarize a given data set, which can be either a representation of the entire or a sample of a population" Investopedia (2019).
+# Regression - a powerful analytical tool which allows examining relationship between two or more variables within a dataset (Foley, 2018) which serves to "fit a mathematical function describing a curve, so that the curve passes as close as possible to all the datapoints" (Marsland, 2015, p. 7).
 # Mean - average of all numbers.
 # Median - is the middle value or average of two middle values of a sorted set of numbers.
 # Mode -  is the most common data entry found in a set of numbers.
@@ -77,8 +81,6 @@
 
 # Seaborn's Mandatory dependencies:
 # NumPy, SciPy, Matplotlib, Pandas.
-
-
 
 # Key parameters within seaborn package from Seaborn Tutorial;
 # x, y : names of variables in data or vector data, optional, must be numeric. Either data or columns in data.
@@ -141,3 +143,4 @@
 # Singh, S. (2019) Become a Data Visualization Whiz with this Comprehensive Guide to Seaborn in Python. Analytics Vidhya. Accessed online at: https://www.analyticsvidhya.com/blog/2019/09/comprehensive-data-visualization-guide-seaborn-python/
 # Wajiha (2019) Python Seaborn Tutorial | Data Visualization Using Seaborn. Accessed online at: https://www.codementor.io/wajihaurooj/python-seaborn-tutorial-data-visualization-using-seaborn-wpj9qydr2.
 # Foley (2018) What is Regression Analysis and Why Should I Use It? Accessed online at: https://www.surveygizmo.com/resources/blog/regression-analysis/.
+# Medium (2018) Data Visualization with Python and Seaborn — Part 4: LM Plot & Reg Plot. Accessed online at: https://medium.com/@neuralnets/data-visualization-with-python-and-seaborn-part-4-9b0119887130
