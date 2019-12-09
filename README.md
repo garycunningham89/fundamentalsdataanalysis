@@ -68,6 +68,22 @@
 # Dependent Variable: factor that needs to understood or predicted. 
 # Independent Variables: the factors that may impact on your dependent variable.
 
+# Graphical Points of Note:
+# Relplot = relational plot more functional and wraps around the facet grid.
+# Two types of functions: axes-level functions [regplot(), boxplot() and kdeplot()] and figure level functions [lmplot(), catplot(), jointplot()] (Willems, 2017).
+# Jitter plots is variation of a scatter plot where the jitter is the deviation from the true value (Singh, 2019) and we can remove this using jitter=false.
+# seaborn.scatterplot(x=None, y=None, hue=None, style=None, size=None, data=None, palette=None, hue_order=None, hue_norm=None, sizes=None, size_order=None, size_norm=None, markers=True, style_order=None, x_bins=None, y_bins=None, units=None, estimator=None, ci=95, n_boot=1000, alpha='auto', x_jitter=None, y_jitter=None, legend='brief', ax=None, **kwargs)
+# seaborn.lineplot(x=None, y=None, hue=None, size=None, style=None, data=None, palette=None, hue_order=None, hue_norm=None, sizes=None, size_order=None, size_norm=None, dashes=True, markers=None, style_order=None, units=None, estimator='mean', ci=95, n_boot=1000, sort=True, err_style='band', err_kws=None, legend='brief', ax=None, **kwargs
+
+# Used For Plotting categorical data: 
+# * Jitter
+# * Hue
+# * Boxplot
+# * Violinplot
+# * Pointplot
+
+
+
 # Why Seaborn? Wajiha(2019):
 # * Seaborn, which is a dominant data visualization library
 # * To ease the challenging task of data visualization.
