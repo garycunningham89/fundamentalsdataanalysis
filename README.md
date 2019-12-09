@@ -99,6 +99,11 @@
 # legend : “brief”, “full”, or False, optional. How to draw the legend. If “brief”, numeric hue and size variables will be represented with a sample of evenly spaced values. If “full”, every group will get an entry in the legend. If False, no legend data is added and no legend is drawn.
 # ax : matplotlib Axes, optional. Axes object to draw the plot onto, otherwise uses the current Axes.
 # kwargs : key, value mappings. Other keyword arguments are passed down to plt.scatter at draw time.
+# x_jitter and y_jitter: add noise to our dataset.
+# color: gives Matplotlib style color.
+# dropna: drops NaN (NULL) values.
+# ci: the size of Confidence interval for regression
+# label: assign a suitable name
 
 # Descriptors of datasets used: data = dataset in question:
 # tips.data() -shows entire data set.
@@ -109,6 +114,10 @@
 # tips.columns() - gives output of the columns headers and the 'dtype'.b
 # tips["class"].value_counts() - separates the column class and gives output of each as well as the dtype as int64.
 
+# Medium (2018) cite Differences between regplot() and lmplot():
+# The shape of the plot.
+# Regplot() has more flexible parameter, i.e. do not need strings - can accept arrays, pandas data types, etc.
+# BOTH cannot take date time inputs for regression analysis**
 
 # Reference List
 # Class Content, Background Reading and Python Learning Tutorials were preliminary references supplemented by the following list of references;
