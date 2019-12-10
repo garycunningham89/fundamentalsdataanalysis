@@ -85,9 +85,6 @@
 # barplot() (with kind="bar")
 # countplot() (with kind="count")
 
-
-
-
 # Graphical Points of Note:
 # Relplot = relational plot more functional and wraps around the facet grid.
 # Two types of functions: axes-level functions [regplot(), boxplot() and kdeplot()] and figure level functions [lmplot(), catplot(), jointplot()] (Willems, 2017).
